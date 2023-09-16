@@ -96,5 +96,6 @@ h2 {
 
 #multiplication-title,
 #title {
-    color: #9a1212;
+    color: #ec8585;
+    text-shadow: #000 3px 2px 3px;
 }
